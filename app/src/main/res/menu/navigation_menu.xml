@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_profile"
+        android:title="@string/profile" />
+
+    <item
+        android:id="@+id/action_chats"
+        android:title="@string/chats" />
+
+    <item
+        android:id="@+id/action_transaction"
+        android:title="@string/transactions" />
+
+    <item
+        android:id="@+id/action_help"
+        android:title="@string/help_amp_feedback" />
+
+    <item
+        android:id="@+id/action_settings"
+        android:title="@string/settings" />
+</menu>

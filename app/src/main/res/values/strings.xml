@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Liqmoney</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="example_email">example@email.com</string>
+    <string name="password">Password</string>
+    <string name="stars">************</string>
+    <string name="reset">Reset</string>
+    <string name="namaste">Namaste!</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="welcome">Welcome!</string>
+    <string name="make_your_life_easy_with_liqmoney">Make your life easy with Liqmoney.</string>
+    <string name="signup_with_email">Signup with email</string>
+    <string name="login_now"><u>Login now</u></string>
+    <string name="existing_user">Existing user?</string>
+    <string name="cancel">Cancel</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="send">Send</string>
+    <string name="profile">Profile</string>
+    <string name="chats">Chats</string>
+    <string name="settings">Settings</string>
+    <string name="transactions">Transactions</string>
+    <string name="help_amp_feedback"><![CDATA[Help & Feedback]]></string>
+    <string name="signup">Signup</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="pin_code">PIN Code</string>
+    <string name="liquid_money">Liquid Money</string>
+    <string name="hard_money">Hard Money</string>
+    <string name="hello_bose">Hello, Bose!</string>
+    <string name="last_transaction">Last Transaction</string>
+    <string name="date">dd/mm/yyyy</string>
+    <string name="amount">Amount</string>
+    <string name="status">Status</string>
+    <string name="see_more"><u>See more...</u></string>
+    <string name="pay_to_receive_cash">Pay to Receive Cash</string>
+    <string name="enter_amount">Enter Amount</string>
+</resources>

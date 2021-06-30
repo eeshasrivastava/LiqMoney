@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "131598461074",
+    "project_id": "runnig-atm",
+    "storage_bucket": "runnig-atm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131598461074:android:5babfd3bf28f7646d1de4b",
+        "android_client_info": {
+          "package_name": "com.starlord.runnigatm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131598461074-7sa5m9n2t4qm9o2qi02d2ad3kdqa5rv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi1T7oWEyrbSUSOcYjrdGaohlPgN9LNME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131598461074-7sa5m9n2t4qm9o2qi02d2ad3kdqa5rv6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
